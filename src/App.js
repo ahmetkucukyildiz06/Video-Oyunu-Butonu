@@ -29,7 +29,7 @@ export default function App() {
         className="video-game-button"
         onClick={() => setGameRunning((pre) => !pre)}
       >
-        {gameRunning ? 'Play' : 'Pause'}
+        {gameRunning ? 'Playyy' : 'Pause'}
       </button>
     </>
   )
